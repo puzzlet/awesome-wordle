@@ -60,5 +60,5 @@ yi | 5 | 6 | 35 | ``
 ## Others
 
 - Prime numbers: https://converged.yt/primel/
-- Absurdle: https://qntm.org/~/wordle/
+- Absurdle: https://qntm.org/files/wordle/
 - Letterle: https://edjefferson.com/letterle/
