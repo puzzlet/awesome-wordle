@@ -4,6 +4,7 @@ Wordle and Wordle-like games
 
 ## In other languages
 
+- Arabic: https://arwordle.netlify.app/
 - Basque: https://wordle.talaios.coop/
 - Bulgarian: https://wordle-bg.ggerganov.com/
 - Catalan: https://gelozp.com/games/wordle/
@@ -34,18 +35,19 @@ k = length of word, n = number of tries, N = number of letters
 
  . | k | n | N | letter distribution
 ---|---|---|---|---
+ar | 5 | 8 | 35 | `10.06 09.08 08.75 06.50 05.99`
 bg | 5 | 6 | 30 | `11.21 09.00 07.99 06.27 05.58`
-ca | 5 | 6 | 27 | ``
-de#p | 5 | 6 | 26 | ``
-de#s | 5 | 6 | 26 | ``
-es | 5 | 6 | 27 | ``
-eu | 5 | 6 | 27 | ``
-fr#l | 5 | 6 | 26 | ``
+ca | 5 | 6 | 27 |
+de#p | 5 | 6 | 26 |
+de#s | 5 | 6 | 26 |
+es | 5 | 6 | 27 |
+eu | 5 | 6 | 27 |
+fr#l | 5 | 6 | 26 |
 fr#s | 5 | 6 | 26 | `14.64 11.84 08.06 07.65 06.95`
-gl | 5 | 6 | 23 | ``
+gl | 5 | 6 | 23 |
 he | 5 | 6 | 27 | `09.68 09.14 06.62 06.44 06.38`
-hu | 5 | 6 | 35 | ``
-it | 5 | 6 | 25 | ``
+hu | 5 | 6 | 35 |
+it | 5 | 6 | 25 |
 nl | 5 | 6 | 26 | `14.25 08.50 08.35 06.84 06.20`
 ja | 5 | ∞ | 81 | `09.10 06.08 05.41 05.40 05.15`
 ku | 5 | 6 | 29 | `09.47 08.56 06.64 06.37 06.18`
@@ -53,12 +55,14 @@ lad | 5 | 6 | 26 | `16.77 09.45 08.79 07.38 07.05`
 pt-BR | 5 | 6 | 26 | `14.03 09.39 08.72 08.51 06.68`
 ru | 5 | 6 | 32 | `11.80 07.91 06.40 06.23 06.16`
 sv | 5 | 6 | 29 | `13.17 07.33 06.88 06.77 06.34`
-tr | 5 | 6 | 29 | ``
-ur | 4 | 7 | 42 | ``
-yi | 5 | 6 | 35 | ``
+tr | 5 | 6 | 29 |
+ur | 4 | 7 | 42 |
+yi | 5 | 6 | 35 |
 
 ## Others
 
-- Prime numbers: https://converged.yt/primel/
 - Absurdle: https://qntm.org/~/wordle/
 - Letterle: https://edjefferson.com/letterle/
+- Math:
+  - Primel: https://converged.yt/primel/
+  - Oodle: https://mathszone.co.uk/resources/grid/ooodle/
