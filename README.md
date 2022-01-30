@@ -6,6 +6,7 @@ Wordle and Wordle-like games
 
 - Arabic: https://arwordle.netlify.app/
 - Basque: https://wordle.talaios.coop/
+- Belarusian: https://ololophilolo.github.io/wordle-by/
 - Bulgarian: https://wordle-bg.ggerganov.com/
 - Catalan: https://gelozp.com/games/wordle/
 - Dutch: https://woordle.nl/
