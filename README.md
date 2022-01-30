@@ -7,7 +7,9 @@ Wordle and Wordle-like games
 - Arabic: https://arwordle.netlify.app/
 - Basque: https://wordle.talaios.coop/
 - Bulgarian: https://wordle-bg.ggerganov.com/
+- Cantonese: https://chaaklau.github.io/zidou/
 - Catalan: https://gelozp.com/games/wordle/
+- Chinese (Cangjie): http://samuello.io/jndle/
 - Dutch: https://woordle.nl/
 - French: https://www.solitaire-play.com/lemot/
 - French: https://wordle.louan.me/
