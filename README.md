@@ -28,6 +28,7 @@ Wordle and Wordle-like games
 - Turkish: https://f.github.io/wordle-tr/
 - Urdu: https://urdle.chaoticity.com/
 - Yiddish: https://www.jiconway.com/vertl/
+- Chinese: https://handle.antfu.me/
 
 ### Statistics
 
