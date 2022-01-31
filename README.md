@@ -10,13 +10,17 @@ Wordle and Wordle-like games
 - Bulgarian: https://wordle-bg.ggerganov.com/
 - Cantonese: https://chaaklau.github.io/zidou/
 - Catalan: https://gelozp.com/games/wordle/
-- Chinese (Cangjie): http://samuello.io/jndle/
+- Chinese
+  - Cangjie: http://samuello.io/jndle/
+  - initial / final / tone: https://handle.antfu.me/
 - Dutch: https://woordle.nl/
-- French: https://www.solitaire-play.com/lemot/
-- French: https://wordle.louan.me/
+- French
+  - https://www.solitaire-play.com/lemot/
+  - https://wordle.louan.me/
 - Galician: https://wordlegalego.appspot.com/
-- German: https://wordle.at/
-- German: https://wordle.uber.space/
+- German
+  - https://wordle.at/
+  - https://wordle.uber.space/
 - Hebrew: https://wordleheb.web.app/
 - Hungarian: https://jealousmarkup.xyz/szofejto/
 - Italian: https://sebastianomorando.github.io/wordle-it/
@@ -31,7 +35,6 @@ Wordle and Wordle-like games
 - Turkish: https://f.github.io/wordle-tr/
 - Urdu: https://urdle.chaoticity.com/
 - Yiddish: https://www.jiconway.com/vertl/
-- Chinese: https://handle.antfu.me/
 
 ### Statistics
 
