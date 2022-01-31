@@ -61,7 +61,7 @@ yi | 5 | 6 | 35 |
 
 ## Others
 
-- Absurdle: https://qntm.org/~/wordle/
+- Absurdle: https://qntm.org/files/wordle/
 - Letterle: https://edjefferson.com/letterle/
 - Math:
   - Primel: https://converged.yt/primel/
