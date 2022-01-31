@@ -8,7 +8,9 @@ Wordle and Wordle-like games
 - Basque: https://wordle.talaios.coop/
 - Belarusian: https://ololophilolo.github.io/wordle-by/
 - Bulgarian: https://wordle-bg.ggerganov.com/
+- Cantonese: https://chaaklau.github.io/zidou/
 - Catalan: https://gelozp.com/games/wordle/
+- Chinese (Cangjie): http://samuello.io/jndle/
 - Dutch: https://woordle.nl/
 - French: https://www.solitaire-play.com/lemot/
 - French: https://wordle.louan.me/
