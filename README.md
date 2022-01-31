@@ -25,6 +25,11 @@ Wordle and Wordle-like games
 - Hungarian: https://jealousmarkup.xyz/szofejto/
 - Italian: https://sebastianomorando.github.io/wordle-it/
 - Japanese: https://aseruneko.github.io/WORDLEja/
+- Korean
+  - https://belorin.github.io/
+  - https://jhlov.github.io/wordle/
+  - https://nakosung.github.io/wordle/
+  - initial / vowel / final: https://danwordle.vercel.app/
 - Kurdish: https://f.github.io/wordle-kurdi/
 - Ladino: https://f.github.io/wordle-ladino/
 - Portuguese, Brazillian: https://term.ooo/
