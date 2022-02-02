@@ -13,6 +13,7 @@ Wordle and Wordle-like games
 - Chinese
   - Cangjie: http://samuello.io/jndle/
   - initial / final / tone: https://handle.antfu.me/
+  - initial / final, but only idioms: https://allanchain.github.io/chinese-wordle/
 - Dutch: https://woordle.nl/
 - French
   - https://www.solitaire-play.com/lemot/
@@ -80,6 +81,7 @@ yi | 5 | 6 | 35 | `09.85 08.16 07.21 07.16 06.42` ענטרי (right-to-left)
 yue | 5 | 6 | 22 | `15.50 11.26 09.59 09.52 05.41` iauos
 zh#antfu | 4*3 | 10 | 23/27/4 |
 zh#cangjie | 5 | 6 | 25 |
+zh#allanchain | 4*2 | 8 | 22/36 |
 
 ## Others
 
