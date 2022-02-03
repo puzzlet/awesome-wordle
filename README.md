@@ -25,7 +25,9 @@ Wordle and Wordle-like games
 - Hebrew: https://wordleheb.web.app/
 - Hungarian: https://jealousmarkup.xyz/szofejto/
 - Italian: https://sebastianomorando.github.io/wordle-it/
-- Japanese: https://aseruneko.github.io/WORDLEja/
+- Japanese:
+  - https://aseruneko.github.io/WORDLEja/
+  - https://taximanli.github.io/kotobade-asobou/
 - Korean
   - https://belorin.github.io/
   - https://jhlov.github.io/wordle/
