@@ -36,7 +36,9 @@ Wordle and Wordle-like games
 - Portuguese, Brazillian: https://term.ooo/
 - Russian: https://wordle.belousov.one/
 - Spanish: https://wordle.danielfrg.com/
-- Swedish: https://ordlig.se/
+- Swedish:
+  - https://swerdle.ankarhem.dev/
+  - https://ordlig.se/
 - Tamil: https://tamilwordle-maleycpqdq-el.a.run.app/
 - Turkish: https://f.github.io/wordle-tr/
 - Urdu: https://urdle.chaoticity.com/
