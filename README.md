@@ -14,6 +14,7 @@ Wordle and Wordle-like games
   - Cangjie: http://samuello.io/jndle/
   - initial / final / tone: https://handle.antfu.me/
   - initial / final, but only idioms: https://allanchain.github.io/chinese-wordle/
+  - Bopomofo https://words.hk/static/bopomofo-wordle/
 - Dutch: https://woordle.nl/
 - French
   - https://www.solitaire-play.com/lemot/
