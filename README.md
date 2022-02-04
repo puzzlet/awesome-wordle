@@ -23,6 +23,7 @@ Wordle and Wordle-like games
   - https://wordle.uber.space/
 - Hebrew: https://wordleheb.web.app/
 - Hungarian: https://jealousmarkup.xyz/szofejto/
+- Indonesian: https://katla.vercel.app/
 - Italian: https://sebastianomorando.github.io/wordle-it/
 - Japanese: https://aseruneko.github.io/WORDLEja/
 - Korean
@@ -61,6 +62,7 @@ fr#solitaire | 5 | 6 | 26 | `14.64 11.84 08.06 07.65 06.95` EASIR
 gl | 5 | 6 | 23 |
 he | 5 | 6 | 27 | `09.68 09.15 06.62 06.44 06.38` יוהרל (right-to-left)
 hu | 5 | 6 | 35 |
+id | 5 | 6 | 26 |
 it | 5 | 6 | 25 | `16.14 11.25 10.57 08.07 07.95` oaert
 ja | 5 | ∞ | 81 | `08.28 06.06 05.23 05.08 04.84` うんしいょ
 ko#belorin | 6 | 6 | 24 | `11.47 10.33 09.84 07.87 07.86` ㅇㅏㅣㄱㄴ
