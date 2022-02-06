@@ -92,3 +92,10 @@ zh#allanchain | 4*2 | 8 | 22/36 |
 - Math:
   - Primel: https://converged.yt/primel/
   - Oodle: https://mathszone.co.uk/resources/grid/ooodle/
+
+
+## Wordle solving scripts
+- https://github.com/MoralCode/WordleBuster
+- [3blue1brown's wordle scripts](https://github.com/3b1b/videos/blob/master/_2022/wordle.py) from his [video](https://www.youtube.com/watch?v=v68zYyaEmEA).
+
+[see more](https://github.com/search?q=wordle+solver)
