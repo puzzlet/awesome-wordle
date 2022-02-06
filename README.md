@@ -4,6 +4,7 @@ Wordle and Wordle-like games
 
 ## In other languages
 
+- Afrikaans: https://wortel.wrintiewaar.co.za
 - Arabic: https://arwordle.netlify.app/
 - Basque: https://wordle.talaios.coop/
 - Belarusian: https://ololophilolo.github.io/wordle-by/
