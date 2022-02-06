@@ -89,6 +89,9 @@ zh#allanchain | 4*2 | 8 | 22/36 |
 
 - Absurdle: https://qntm.org/files/wordle/
 - Letterle: https://edjefferson.com/letterle/
+- Nerdle: https://nerdlegame.com/
+- Word-master ([open source](https://github.com/octokatherine/word-master)): https://octokatherine.github.io/word-master/
+- Hello-wordl ([open source](https://github.com/lynn/hello-wordl)) https://hellowordl.net/
 - Math:
   - Primel: https://converged.yt/primel/
   - Oodle: https://mathszone.co.uk/resources/grid/ooodle/
