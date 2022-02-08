@@ -33,6 +33,7 @@ Wordle and Wordle-like games
   - initial / vowel / final: https://danwordle.vercel.app/
 - Kurdish: https://f.github.io/wordle-kurdi/
 - Ladino: https://f.github.io/wordle-ladino/
+- Persian: https://www.vaajoor.ir/
 - Portuguese, Brazillian: https://term.ooo/
 - Russian: https://wordle.belousov.one/
 - Spanish: https://wordle.danielfrg.com/
