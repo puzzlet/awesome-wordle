@@ -5,6 +5,7 @@ Wordle and Wordle-like games
 ## In other languages
 
 - Arabic: https://arwordle.netlify.app/
+- Armenian: https://www.parig.xyz/
 - Basque: https://wordle.talaios.coop/
 - Belarusian: https://ololophilolo.github.io/wordle-by/
 - Bulgarian: https://wordle-bg.ggerganov.com/
@@ -40,7 +41,7 @@ Wordle and Wordle-like games
   - https://swerdle.ankarhem.dev/
   - https://ordlig.se/
 - Tamil: https://tamilwordle-maleycpqdq-el.a.run.app/
-- Turkish: https://f.github.io/wordle-tr/
+- Turkish: https://www.bundle.app/wordle-tr/
 - Urdu: https://urdle.chaoticity.com/
 - Yiddish: https://www.jiconway.com/vertl/
 
