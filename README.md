@@ -90,5 +90,6 @@ zh#allanchain | 4*2 | 8 | 22/36 |
 - Absurdle: https://qntm.org/files/wordle/
 - Letterle: https://edjefferson.com/letterle/
 - Math:
+  - Countle: https://www.countle.org/
   - Primel: https://converged.yt/primel/
   - Oodle: https://mathszone.co.uk/resources/grid/ooodle/
