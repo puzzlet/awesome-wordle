@@ -18,6 +18,7 @@ Wordle and Wordle-like games
 - French
   - https://www.solitaire-play.com/lemot/
   - https://wordle.louan.me/
+  - https://www.notretemps.com/jeux/jeux-en-ligne/wordle-jeu-le-mot-du-jour
 - Galician: https://wordlegalego.appspot.com/
 - German
   - https://wordle.at/
