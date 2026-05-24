@@ -92,3 +92,6 @@ zh#allanchain | 4*2 | 8 | 22/36 |
 - Math:
   - Primel: https://converged.yt/primel/
   - Oodle: https://mathszone.co.uk/resources/grid/ooodle/
+- Geography:
+  - Statedoku: https://statedoku.com/ — Daily 3×3 grid where you fill nine US states matching two row+column constraints.
+  - Worldle: https://worldle.teuteuf.fr/ — Guess the country by its shape.
