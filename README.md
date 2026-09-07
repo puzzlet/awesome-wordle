@@ -41,6 +41,7 @@ Wordle and Wordle-like games
   - https://ordlig.se/
 - Tamil: https://tamilwordle-maleycpqdq-el.a.run.app/
 - Turkish: https://f.github.io/wordle-tr/
+  - https://harfavi.com/ (TDK dictionary, 4–9 letters, unlimited mode)
 - Urdu: https://urdle.chaoticity.com/
 - Yiddish: https://www.jiconway.com/vertl/
 
