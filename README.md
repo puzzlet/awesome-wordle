@@ -82,6 +82,8 @@ Alternate rules
 -   Connect two 4-letter words: [Weaver](https://wordwormdormdork.com/)
 -   Crossword + Wordle:
     [Crosswordle](https://crosswordle.serializer.ca/)
+-   Four-letter word ladder:
+    [PoopleGame](https://pooplegame.fun/)
 -   Guess a 5-letter string (not necessarily a letter): [Play
     Nerdle](http://www.playnerdle.com/)
 -   Interlocked guesses: [Squardle](https://fubargames.se/squardle/)
