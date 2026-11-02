@@ -89,6 +89,7 @@ zh#allanchain | 4*2 | 8 | 22/36 |
 
 - Absurdle: https://qntm.org/files/wordle/
 - Letterle: https://edjefferson.com/letterle/
+- Free Word Puzzle (4/5/6 letters, daily + unlimited, plus Nerdle-style math): https://www.freewordpuzzle.com/
 - Math:
   - Primel: https://converged.yt/primel/
   - Oodle: https://mathszone.co.uk/resources/grid/ooodle/
