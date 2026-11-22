@@ -88,6 +88,7 @@ zh#allanchain | 4*2 | 8 | 22/36 |
 ## Others
 
 - Absurdle: https://qntm.org/files/wordle/
+- DemonDle (Daily Geometry Dash Extreme Demon deduction puzzle & Gacha): https://gdgacha.com/
 - Letterle: https://edjefferson.com/letterle/
 - Math:
   - Primel: https://converged.yt/primel/
