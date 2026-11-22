@@ -88,7 +88,9 @@ zh#allanchain | 4*2 | 8 | 22/36 |
 ## Others
 
 - Absurdle: https://qntm.org/files/wordle/
+- AnyKrillion (trivia guessing game where rare answers score more, daily dive + unlimited): https://anykrillion.com/
 - Letterle: https://edjefferson.com/letterle/
+- Poople Unlimited (4-letter word ladder game, daily challenge + unlimited practice): https://anykrillion.com/poople-unlimited/
 - Math:
   - Primel: https://converged.yt/primel/
   - Oodle: https://mathszone.co.uk/resources/grid/ooodle/
