@@ -88,6 +88,7 @@ zh#allanchain | 4*2 | 8 | 22/36 |
 ## Others
 
 - Absurdle: https://qntm.org/files/wordle/
+- Kabloom Daily: https://kabloomdaily.com/ (Volcano trivia puzzle with 7 escalating categories under 25s)
 - Letterle: https://edjefferson.com/letterle/
 - Math:
   - Primel: https://converged.yt/primel/
